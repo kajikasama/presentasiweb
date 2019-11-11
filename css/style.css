@@ -1,0 +1,171 @@
+html,body
+{
+	position: relative;
+}
+hr
+{
+	width: 300px;
+	border: 3px #3956E8 solid;
+}
+.jumbotron
+{
+	background: url('../img/bg2.jpg');
+	background-size: cover;
+	width: 100%;
+	padding-bottom: 50px;
+	padding-top: 150px;
+	background-attachment: fixed;
+}
+.jumbotron img
+{
+	width: 400px;
+	height: 309px;
+	text-align: center;
+	margin-bottom: 80px;
+}
+.jumbotron h1
+{
+	color: #FFFFFF;
+	font-family: 'Adobe Fangsong Std';
+	font-weight: bold;
+}
+.latarbelakang
+{
+	padding-top: 0px;
+	padding-bottom: 100px;
+}
+.panjang
+{
+	width: 1000px;
+}
+.perusahaan
+{
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 200px;
+	background: url(../img/perusahaan2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+}
+.perusahaan h2
+{
+	color: #FFFFFF;
+
+}
+.perusahaan hr
+{
+	border-color: #F43535
+}
+.perusahaan img
+{
+	width: 1000px;
+	height: 500px;
+	background: #FFFFFF;
+	border-radius: 3px;
+	padding: 50px 10px 0px 5px;
+}
+.perusahaan ul li
+{
+	padding-top: 100px;
+	text-align: left;
+	font-size: 28px;
+
+}
+.perusahaan ul img
+{
+	margin-top: 50px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	width: 1000px;
+	height: 600px;
+}
+.pelaksanaan
+{
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.pelaksanaan h2
+{
+
+
+}
+.pelaksanaan hr
+{
+	border-color: #24E88F;
+	margin-bottom: 70px;
+}
+.pelaksanaan ul li
+{
+	font-size: 16px;
+}
+.panjang2
+{
+	margin-bottom: 0px;
+	margin-top: 70px;
+	width: 1000px;
+	border-color: #24E88F;
+}
+.projectweb
+{
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 200px;
+	background: url(../img/bg3.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+}
+.projectweb h2
+{
+	color: #FFFFFF;
+
+}
+.projectweb hr
+{
+	border-color: #CE33EB;
+	margin-bottom: 100px;
+}
+.projectweb a
+{
+	border-radius: 0px;
+	padding: 20px;
+	background: #2F2D2D;
+	border: 1px #2F2D2D solid;
+	opacity: 1;
+}
+.projectweb a:hover
+{
+	border-radius: 0px;
+	padding: 20px;
+	background: #2F2D2D;
+	border: 1px #2F2D2D solid;
+	opacity: 0.9;
+}
+.kesimpulan
+{
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 200px;
+	background: white;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+}
+.kesimpulan h2
+{
+color:#2D2B2B;
+
+}
+.kesimpulan hr
+{
+	border-color: #CE33EB;
+	margin-bottom: 100px;
+}
+.kesimpulan h4
+{
+	color:#393737;
+	line-height: 30px;
+}
